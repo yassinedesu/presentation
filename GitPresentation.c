@@ -3,8 +3,7 @@
 
 int main() {
     // Write C code here
-    printf("Presentation de Git Team A ");
-    //Team A
+    printf("Presentation de Git Team A aaaa");
 
     return 0;
 }
