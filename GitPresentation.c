@@ -5,6 +5,6 @@ int main() {
     // Write C code here
     printf("Presentation de Git Team A ");
     //Team A
-
+    /*Merci pour Votre attention*/
     return 0;
 }
